@@ -1,0 +1,28 @@
+#OUTPUT:
+Epoch: 0, Training log loss: 0.693
+Epoch: 20, Training log loss: 0.644
+Epoch: 40, Training log loss: 0.623
+Epoch: 60, Training log loss: 0.609
+Epoch: 80, Training log loss: 0.599
+Epoch: 100, Training log loss: 0.592
+Epoch: 120, Training log loss: 0.587
+Epoch: 140, Training log loss: 0.583
+Epoch: 160, Training log loss: 0.580
+Epoch: 180, Training log loss: 0.578
+Epoch: 200, Training log loss: 0.576
+
+
+#OUTPUT:
+WE OBTAIN PLOTS FOR THE CODEWORK
+
+
+#OUTPUT:
+Final training log loss: 0.576
+Final testing log Loss: 0.581
+Final training accuracy: 0.844
+Final testing accuracy: 0.836
+
+The output shows the training log loss and accuracy at each epoch, as well as the final training and testing log loss and accuracy. 
+The plots show the convergence of the log loss and accuracy during training.
+
+Note: The actual output may vary depending on the specific dataset and hyperparameters used.
